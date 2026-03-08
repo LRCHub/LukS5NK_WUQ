@@ -1,0 +1,42 @@
+# okudakun – houkago
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+眺める放課後、屋上の空
+薄暗い雲と無くしたものが
+もう散ったでもそう笑った事は
+もう思い出　また泣いて　また泣いて
+Mistake 明日は晴れるって
+Mistake only know her by name
+Wanna say  また輝いて
+泣かないで　また輝いて
+Oh
+一人で時間が必要
+Gime time i nda heal
+痛みは本物です
+とても低く感じる
+I feel so amazin in this realm
+I wnt u in my arms#2nyt
+Kiss me thru tha phone
+オンラインキスをください
+I dnt hav no time kp2 on holdin bacc my will
+Oh
+一人で時間が必要
+Gime time i nda heal
+痛みは本物です
+とても低く感じる
+I feel so amazin in this realm
+眺める放課後、屋上の空
+薄暗い雲と無くしたものが
+もう散ったでもそう笑った事は
+もう思い出　また泣いて　また泣いて
+I wnt u in my arms#2nyt
+Kiss me thru tha phone
+オンラインキスをください
+I dnt hav no time kp2 on holdin bacc my will
+Mistake 明日は晴れるって
+Mistake only know her by name
+Wanna say  また輝いて
+泣かないで　また輝いて
+```
