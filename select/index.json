@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "houkago",
+  "base_artist": "okudakun",
+  "createdAt": "2026-03-08T06:03:25.871497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Saigono Houkago",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_Saigono_Houkago_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fuwa Fuwa Time (#23 「Houkago!」 Cassette Mix)",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": true,
+      "path": "select/02_Fuwa_Fuwa_Time_(_23_「Houkago!」_Cassette_Mix)_Ho-kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fuyu no Hi (#23 「Houkago!」 Cassette Mix)",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": false,
+      "path": "select/03_Fuyu_no_Hi_(_23_「Houkago!」_Cassette_Mix)_Ho-kago_Tea_Time.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Houkago Di(e)stra(u)ction",
+      "artist": "Yakushimaru Etsuko",
+      "has_synced": true,
+      "path": "select/04_Houkago_Di(e)stra(u)ction_Yakushimaru_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Houkago High Five (After School High Five)",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/05_Houkago_High_Five_(After_School_High_Five)_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Saigo no Houkago",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/06_Saigo_no_Houkago_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Houkago Di(e)stra(u)ction",
+      "artist": "Etsuko Yakushimaru",
+      "has_synced": true,
+      "path": "select/07_Houkago_Di(e)stra(u)ction_Etsuko_Yakushimaru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Houkago Stride",
+      "artist": "Last Note.",
+      "has_synced": true,
+      "path": "select/08_Houkago_Stride_Last_Note..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "houkago stride",
+      "artist": "Last Note.",
+      "has_synced": false,
+      "path": "select/09_houkago_stride_Last_Note..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Houkago Getabako Rokkenroll Mx",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": false,
+      "path": "select/10_Houkago_Getabako_Rokkenroll_Mx_Shiritsu_Ebisu_Chugaku.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Houkago Getabako (Rokkenroll Mx)",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": false,
+      "path": "select/11_Houkago_Getabako_(Rokkenroll_Mx)_Shiritsu_Ebisu_Chugaku.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Houkago Getabako Rock'n'Roll MX (Chusotsu ver.)",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": false,
+      "path": "select/12_Houkago_Getabako_Rock'n'Roll_MX_(Chusotsu_ver.)_Shiritsu_Ebisu_Chugaku.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Saigo no Houkago",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/13_Saigo_no_Houkago_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Houkago Serena~de with Kishida Mell",
+      "artist": "Sayonara Ponytail",
+      "has_synced": true,
+      "path": "select/14_Houkago_Serena~de_with_Kishida_Mell_Sayonara_Ponytail.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "houkago overflow",
+      "artist": "megumi nakajima",
+      "has_synced": true,
+      "path": "select/15_houkago_overflow_megumi_nakajima.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Houkago 1H (放課後1H)",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/16_Houkago_1H_(放課後1H)_SCANDAL.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fudepen ~Ball Pen~ (#23 “Houkago!” Mix)",
+      "artist": "HO-KAGO TEA TIME (CV: Toyosaki Aki, Hikasa Youko)",
+      "has_synced": false,
+      "path": "select/17_Fudepen_~Ball_Pen~_(_23_“Houkago!”_Mix)_HO-KAGO_TEA_TIME_(CV__Toyosaki_Aki,_Hikasa_Youko).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Pure Pure Heart (#23 “Houkago!” Mix)",
+      "artist": "HO-KAGO TEA TIME (CV: Toyosaki Aki, Hikasa Youko)",
+      "has_synced": false,
+      "path": "select/18_Pure_Pure_Heart_(_23_“Houkago!”_Mix)_HO-KAGO_TEA_TIME_(CV__Toyosaki_Aki,_Hikasa_Youko).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "houkago (feat. saikyo)",
+      "artist": "okudakun",
+      "has_synced": false,
+      "path": "select/pl_01_houkago_(feat._saikyo)_okudakun.txt"
+    }
+  ]
+}
